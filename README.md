@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hudsonventura" alt="hudsonventura" /></a> </p>
 
+Buy me a coffee:<a href="https://www.buymeacoffee.com/hudsonventura">https://www.buymeacoffee.com/hudsonventura</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hudson-ventura-003bb597" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hudson-ventura-003bb597" height="30" width="40" /></a>
