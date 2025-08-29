@@ -1,12 +1,11 @@
-<h1 align="center">Hey 👋, I'm Hudson Ventura</h1>
-<h3 align="center">Backend dotnet core developer</h3>
+<h1 align="center">Hey there 👋, I'm Hudson Ventura</h1>
+<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">C# | React | PostgreSQL | GNU Linux</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=hudsonventura&label=Profile%20views&color=0e75b6&style=flat" alt="hudsonventura" /> 
   <a href="https://wakatime.com/@92b3c531-b056-49aa-8e59-bbdf617d92b3"><img src="https://wakatime.com/badge/user/92b3c531-b056-49aa-8e59-bbdf617d92b3.svg" alt="Total time coded since Apr 15 2025" /></a>
 </p>
-
-
 
 
 <h3 align="left">My social medias</h3>
