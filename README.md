@@ -29,4 +29,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hudsonventura&show_icons=true&locale=en&layout=compact" alt="hudsonventura" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hudsonventura&show_icons=true&locale=en" alt="hudsonventura" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hudsonventura&" alt="hudsonventura" /></p>
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=hudsonventura](https://github-profile-trophy-roan.vercel.app/?username=hudsonventura)" alt="hudsonventura" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[[https://github-profile-trophy.vercel.app/?username=hudsonventura]([https://github-profile-trophy-roan.vercel.app/?username=hudsonventura](https://github-profile-trophy-roan.vercel.app/?username=hudsonventura))](https://github-profile-trophy-roan.vercel.app/?username=hudsonventura)" alt="hudsonventura" /></a> </p>
