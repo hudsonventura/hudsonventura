@@ -1,9 +1,13 @@
-<h1 align="center">Hello world 👋, I'm Hudson Ventura</h1>
-<h3 align="center">Backend dotnet developer</h3>
+<h1 align="center">Hey 👋, I'm Hudson Ventura</h1>
+<h3 align="center">Backend dotnet core developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hudsonventura&label=Profile%20views&color=0e75b6&style=flat" alt="hudsonventura" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=hudsonventura&label=Profile%20views&color=0e75b6&style=flat" alt="hudsonventura" /> 
+  <a href="https://wakatime.com/@92b3c531-b056-49aa-8e59-bbdf617d92b3"><img src="https://wakatime.com/badge/user/92b3c531-b056-49aa-8e59-bbdf617d92b3.svg" alt="Total time coded since Apr 15 2025" /></a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hudsonventura" alt="hudsonventura" /></a> </p>
+
+
 
 <h3 align="left">My social medias</h3>
 
@@ -24,7 +28,6 @@
 
 <h3>My GitHub work status</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hudsonventura&show_icons=true&locale=en&layout=compact" alt="hudsonventura" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hudsonventura&show_icons=true&locale=en" alt="hudsonventura" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hudsonventura&" alt="hudsonventura" /></p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hudsonventura" alt="hudsonventura" /></a> </p>
