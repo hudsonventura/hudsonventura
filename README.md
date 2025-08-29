@@ -11,7 +11,7 @@
 
 <h3 align="left">My social medias</h3>
 
-<a href="https://hudsonventura.ddnsgeek.com"> <img alt="Static Badge" src="https://img.shields.io/badge/My_Web_Site-black?style=flat-square&logo=fontawesome&logoColor=white" /> </a>
+<a href="https://hudsonventura.ddnsfree.com"> <img alt="Static Badge" src="https://img.shields.io/badge/My_Web_Site-black?style=flat-square&logo=fontawesome&logoColor=white" /> </a>
 <a href="https://linkedin.com/in/hudson-ventura-003bb597"> <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" /> </a>
 <a href="https://instagram.com/hudsonventura"> <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-pink?style=flat-square&logo=instagram&logoColor=white" /> </a>
 <a href="https://fb.com/hudsonf.ventura"> <img alt="Static Badge" src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&logoColor=white" /> </a>
